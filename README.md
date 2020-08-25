@@ -1,2 +1,3 @@
-Lane Detector
-Involve the use of computer vision library to detect the lane on the road.
+Detecting Lanes on road
+
+This project computer vision method for detecting lanes on the road. cv2 and numpy libraries are used to process the image.
