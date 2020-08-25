@@ -1,2 +1,2 @@
-# Machine-Learning
-Contains codes of the ML models
+Lane Detector
+Involve the use of computer vision library to detect the lane on the road.
